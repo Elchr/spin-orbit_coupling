@@ -88,5 +88,5 @@ hold on
 xlabel('\gamma')
 ylabel('$\dot{\theta}/ \eta $','interpreter','latex')
 grid on
-title('Διάγραμμα Φάσης')
+title('Phase Diagram')
 
